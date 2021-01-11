@@ -1,5 +1,9 @@
 ### Hi there, my name is KangDroid[Jason. HW. Kang]! 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=KangDroid&show_icons=true&theme=dark" />
+</a>
+
 Occupation
 ----------
 - From Republic of Korea 🇰🇷
@@ -34,6 +38,7 @@ Fun Fact
   About 2-4 years, from 2012~2016, SOKDP, KangDroid-Project, Hexa-Project, etc..
 - Was contributer of 3D Printer System, Marlin Firmware & Ultimaker Cura<br>
   Extremely small portion of it only :)
+- Moving back to, the first I started developing, Android.
 
 <!--
 **KangDroid/KangDroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
