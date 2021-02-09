@@ -11,6 +11,17 @@ Occupation
   Konkuk University, Department of Computer Science & Engineering, Seoul, Republic of Korea
 - Free Developer<br>
   Somewhat goal-less projects :)
+  
+Currently Working on
+---------------------
+- Navi-Cloud[https://github.com/Navi-Cloud]<br>
+  Navi-Server: The Server Backend for Cloud Service.[Main Dev]
+  Navi-App: Android Application Client for Navi-Cloud Service.[Sub Dev]
+- A Massive Docker Cloud Service<br>
+  [CLMasterServer](https://github.com/KangDroid/CLMasterServer): Master Controller Server<br>
+  [CLNodeServer](https://github.com/KangDroid/CLNodeServer): Compute Node Server <br>
+  [CLClient](https://github.com/KangDroid/CLClient): Client-Side Request-er<br>
+  [CLNodeRegister](https://github.com/KangDroid/CLNodeRegister): Admin[Client] Side Node Register Program
 
 Interested on..
 ---------------
@@ -20,6 +31,7 @@ Interested on..
 - Mostly CLI Projects[CLI-Interaction]
 - ARM Compiler on Darwin[macOS, XNU Kernel]<br>
   Such as, LINARO Compiler with CROSSTOOL-NG
+- SpringBoot[Server Backend], but integrating some Operating System knowledge + Container Service
   
 Language I can SPEAK
 --------------------
@@ -28,6 +40,7 @@ Language I can SPEAK
 - printf("%s\n", "C");
 - std::cout << "C++" << ", Most-Loved language for me." << std::endl;
 - System.out.println("Still, I can use Java but not that much");
+- println("Kotlin!, Using as server-side language :) ")
 - print("Python, but I don't use it well though;")
 - console.log("Javascripts, but usually, I just read JS not write")
 - display("MATLAB, I don't like it, but some mathmatical subjects almost force me to use it :) ");
