@@ -8,16 +8,15 @@ Occupation
 ----------
 - From Republic of Korea 🇰🇷
 - Univesity Undergraduate Student<br>
-  Konkuk University, Department of Computer Science & Engineering, Seoul, Republic of Korea
-- Free Developer<br>
-  Somewhat goal-less projects :)
+  Konkuk University, Department of Computer Science & Engineering, Seoul, Republic of Korea<br>
+- Uniquegood Company, Server Back-End Developer.
   
 Currently Working on
 ---------------------
 - Navi-Cloud[https://github.com/Navi-Cloud]<br>
-  Navi-Server: The Server Backend for Cloud Service.[Main Dev]
+  Navi-Server: The Server Backend for Cloud Service.[Main Dev]<br>
   Navi-App: Android Application Client for Navi-Cloud Service.[Sub Dev]
-- A Massive Docker Cloud Service<br>
+- A Massive Docker Cloud Service<br>[**Paused due to work in company.**]
   [CLMasterServer](https://github.com/KangDroid/CLMasterServer): Master Controller Server<br>
   [CLNodeServer](https://github.com/KangDroid/CLNodeServer): Compute Node Server <br>
   [CLClient](https://github.com/KangDroid/CLClient): Client-Side Request-er<br>
@@ -32,6 +31,7 @@ Interested on..
 - ARM Compiler on Darwin[macOS, XNU Kernel]<br>
   Such as, LINARO Compiler with CROSSTOOL-NG
 - SpringBoot[Server Backend], but integrating some Operating System knowledge + Container Service
+- C# ASP .NET Core + Kubernetes
   
 Language I can SPEAK
 --------------------
@@ -51,7 +51,7 @@ Fun Fact
   About 2-4 years, from 2012~2016, SOKDP, KangDroid-Project, Hexa-Project, etc..
 - Was contributer of 3D Printer System, Marlin Firmware & Ultimaker Cura<br>
   Extremely small portion of it only :)
-- Moving back to, the first I started developing, Android.
+- Got surprised that asp.net supports various operating system - like running on ubuntu-docker, or native macOS
 
 <!--
 **KangDroid/KangDroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
